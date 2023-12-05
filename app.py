@@ -1,8 +1,8 @@
 from flask import Flask, render_template, request, flash, redirect
 import random
 
-kon = ["tle", "non", "ta", "wich"]
-lol = ["tle", "non", "ta", "wich"]
+kon = ["tle", "tar", "beem", "meaw"]
+lol = ["tle", "tar", "beem", "meaw"]
 are = []
 konn = False
 
